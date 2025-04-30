@@ -1,2 +1,2 @@
 # Amazon_Clone
-Create Amazon Clone Using HTML, CSS and JavaScript | Frontend Project
+ Amazon Clone Using HTML, CSS and JavaScript | Frontend Project
